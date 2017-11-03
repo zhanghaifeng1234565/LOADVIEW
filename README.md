@@ -5,3 +5,4 @@
 视图加载失败 没网的时候  [weakSelf noNetWork];
 数据加载失败 有网的时候  [weakSelf dataError];
 数据加载记载成功 [weakSelf delayMethod];
+延时代码仅仅用于测试，工程中请把相应代码放在网络请求中
